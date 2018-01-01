@@ -8,8 +8,8 @@ import time
 ##
 ## Config
 ##############################################
-ip = '192.168.1.128'
-token = 'b14fd53b79ab7d17991e0093264b21aa'
+ip = 'device ip'
+token = 'device token'
 
 
 ####################NO MODIFICAR NADA MAS A PARTIR DE AQUI######

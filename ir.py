@@ -9,8 +9,8 @@ import json
 import os
 import os.path
 fichero ='./codes.txt'
-ip= '192.168.1.128'
-token = 'b14fd53b79ab7d17991e0093264b21aa'
+ip= 'Device ip'
+token = 'Device token'
 try:
     os.stat("codes.txt")
     print ('Existe el fichero codes.txt')
